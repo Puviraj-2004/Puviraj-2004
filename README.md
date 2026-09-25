@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirabakaran-puviraj-4603603b0/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pirabakaranpuviraj456@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Puviraj-2004)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/puvi_co)
 
 </div>
 
@@ -55,16 +56,3 @@ Promoted from Intern → Associate Software Engineer at Inspire Associates after
 | 🚀 Associate Software Engineer | Inspire Associates | Sep 2026 – Present |
 | 💻 Software Developer Intern | Inspire Associates | Dec 2025 – Aug 2026 |
 | 🛠️ Software Development | ICEDT | Jun 2025 – Nov 2025 |
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirabakaran-puviraj-4603603b0/)
-[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pirabakaranpuviraj456@gmail.com)
-
----
-
-<div align="center">
-<sub>⭐ If you like my work, consider starring my repos!</sub>
-</div>
