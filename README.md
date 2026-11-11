@@ -1,58 +1,74 @@
 <div align="center">
 
-# Hi, I'm Pirabakaran Puviraj 👋
+# Pirabakaran Puviraj
 
-**Associate Software Engineer @ Inspire Associates · Jaffna, Sri Lanka**
+### Associate Software Engineer · Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirabakaran-puviraj-4603603b0/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pirabakaranpuviraj456@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Puviraj-2004)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/puvi_co)
+Building scalable, production-ready web applications with React, Next.js and .NET.
+<br/>
+Based in Jaffna, Sri Lanka
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirabakaran-puviraj-4603603b0/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pirabakaranpuviraj456@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/puvi_co)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-Full Stack Developer building scalable, production-ready web applications.
-Promoted from Intern → Associate Software Engineer at Inspire Associates after 9 months.
+I'm a full stack developer at **Inspire Associates**, where I was promoted from Intern to Associate Software Engineer after nine months. I build end-to-end web applications, from responsive front ends to REST APIs and relational databases, with a focus on clean architecture and maintainable code.
 
-- 🔭 Working on **React, Next.js & .NET** apps
-- 🌱 Exploring **AI/LLM integration** in web apps
-- 💬 Ask me about **React, PostgreSQL, REST APIs, Supabase**
-- 📫 **pirabakaranpuviraj456@gmail.com**
-- ⚡ Open to collaborations & new opportunities!
+- Currently building with **React, Next.js and .NET**
+- Exploring **AI/LLM integration** in web applications
+- Happy to talk about **React, PostgreSQL, REST APIs and Supabase**
+- Open to collaborations and new opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| Area | Technologies |
+|------|--------------|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 ---
 
-## 💼 Experience
+## Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
-| 🚀 Associate Software Engineer | Inspire Associates | Sep 2026 – Present |
-| 💻 Software Developer Intern | Inspire Associates | Dec 2025 – Aug 2026 |
-| 🛠️ Software Development | ICEDT | Jun 2025 – Nov 2025 |
+| Role | Company | Period |
+|------|---------|--------|
+| **Associate Software Engineer** | Inspire Associates | Sep 2026 – Present |
+| Software Developer Intern | Inspire Associates | Dec 2025 – Aug 2026 |
+| Software Development | ICEDT | Jun 2025 – Nov 2025 |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Puviraj-2004">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Puviraj-2004&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=6e7681" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/Puviraj-2004">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puviraj-2004&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2&text_color=6e7681&langs_count=6" alt="Top languages"/>
+</a>
+
+</div>
+
+---
+
+## Get in Touch
+
+I'm open to full stack roles, freelance projects and collaborations.
+
+- **Email:** [pirabakaranpuviraj456@gmail.com](mailto:pirabakaranpuviraj456@gmail.com)
+- **LinkedIn:** [pirabakaran-puviraj](https://www.linkedin.com/in/pirabakaran-puviraj-4603603b0/)
+- **Fiverr:** [puvi_co](https://www.fiverr.com/puvi_co)
