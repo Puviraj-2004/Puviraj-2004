@@ -10,6 +10,7 @@ Based in Jaffna, Sri Lanka
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://puvidev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirabakaran-puviraj-4603603b0/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pirabakaranpuviraj456@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/puvi_co)
@@ -50,25 +51,11 @@ I'm a full stack developer at **Inspire Associates**, where I was promoted from 
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/Puviraj-2004">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Puviraj-2004&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=6e7681" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/Puviraj-2004">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puviraj-2004&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2&text_color=6e7681&langs_count=6" alt="Top languages"/>
-</a>
-
-</div>
-
----
-
 ## Get in Touch
 
 I'm open to full stack roles, freelance projects and collaborations.
 
+- **Portfolio:** [puvidev.vercel.app](https://puvidev.vercel.app/)
 - **Email:** [pirabakaranpuviraj456@gmail.com](mailto:pirabakaranpuviraj456@gmail.com)
 - **LinkedIn:** [pirabakaran-puviraj](https://www.linkedin.com/in/pirabakaran-puviraj-4603603b0/)
 - **Fiverr:** [puvi_co](https://www.fiverr.com/puvi_co)
